@@ -12,10 +12,16 @@ Welcome to my GitHub profile!
 ## 🌱 I'm currently learning
 - Python....
 
-## 💼 Skills
-- PyQt5           ![20% progress bar](https://progress-bar.xyz/20)
-- Qt-Designer:    ![20% progress bar](https://progress-bar.xyz/50)
-- Tkinter:        ![99.99% progress bar](https://progress-bar.xyz/50)
+## 💼 Skills & Technologies  
+
+### 🖥️ Desktop Development
+
+| Technology   | Level |
+|-------------|--------|
+| PyQt5       | ![PyQt5](https://progress-bar.xyz/20/?title=20%25&width=200) |
+| Qt Designer | ![Qt Designer](https://progress-bar.xyz/20/?title=20%25&width=200) |
+| Tkinter     | ![Tkinter](https://progress-bar.xyz/99/?title=99%25&width=200) |
+
 
 - [Add your skills here]
 

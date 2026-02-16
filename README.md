@@ -13,7 +13,9 @@ Welcome to my GitHub profile!
 - Python....
 
 ## 💼 Skills
-![50% progress bar](https://progress-bar.xyz/50)
+- PyQt5           ![20% progress bar](https://progress-bar.xyz/20)
+- Qt-Designer:    ![20% progress bar](https://progress-bar.xyz/50)
+- Tkinter:        ![99.99% progress bar](https://progress-bar.xyz/50)
 
 - [Add your skills here]
 

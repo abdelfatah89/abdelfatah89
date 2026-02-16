@@ -13,7 +13,12 @@ Welcome to my GitHub profile!
 - Python....
 
 ## 💼 Skills
-⠋ Loading...  ⠙ Loading...  ⠹ Loading...  ⠸ Loading...  ⠼ Loading...  ⠴ Loading...  ⠦ Loading...  ⠧ Loading...  ⠇ Loading...  ⠏ Loading...
+<!-- Project Progress -->
+| Status | Feature | Progress |
+|--------|---------|----------|
+| ✅ | Core functionality | <div style="width: 100px; background: #eee; border-radius: 3px;"><div style="width: 100%; background: #4c1; height: 10px; border-radius: 3px;"></div></div> 100% |
+| 🚧 | API integration | <div style="width: 100px; background: #eee; border-radius: 3px;"><div style="width: 60%; background: #fe7; height: 10px; border-radius: 3px;"></div></div> 60% |
+| ⏳ | Documentation | <div style="width: 100px; background: #eee; border-radius: 3px;"><div style="width: 30%; background: #f93; height: 10px; border-radius: 3px;"></div></div> 30% |
 - [Add your skills here]
 
 ## 📫 How to reach me

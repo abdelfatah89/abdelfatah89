@@ -13,11 +13,7 @@ Welcome to my GitHub profile!
 - Python....
 
 ## 💼 Skills
-▰▰▰▰▰▰▰▰▰▰ 100%
-▰▰▰▰▰▰▰▰▱▱ 80%
-▰▰▰▰▰▱▱▱▱▱ 50%
-▰▰▰▱▱▱▱▱▱▱ 30%
-▱▱▱▱▱▱▱▱▱▱ 0%
+![loading](https://i.imgur.com/8p9ZqYq.gif) Loading...
 - [Add your skills here]
 
 ## 📫 How to reach me

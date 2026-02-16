@@ -7,24 +7,24 @@ I'm @abdelfatah89
 Welcome to my GitHub profile!
 
 ## 🔭 I'm currently working on
-- [Add your current projects here]
+- Home....
 
 ## 🌱 I'm currently learning
-- [Add what you're learning here]
+- Python....
 
 ## 💼 Skills
 - [Add your skills here]
 
 ## 📫 How to reach me
-- [Add your contact information here]
+- abdalfattahlaktaoui98@gmail.com
 
 ## ⚡ Fun fact
-- [Add a fun fact about yourself here]
+- Code is not my Life
 
----
+
 
 [![alaktaou's 42 stats](https://badge.mediaplus.ma/colorfulwaves/alaktaou)](https://github.com/oakoudad/badge42)
 
----
+
 
 Feel free to explore my repositories and connect with me!

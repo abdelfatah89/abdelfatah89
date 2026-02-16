@@ -18,9 +18,9 @@ Welcome to my GitHub profile!
 
 | Technology   | Level |
 |-------------|--------|
-| PyQt5       | ![PyQt5](https://progress-bar.xyz/20/?title=20%&width=200) |
-| Qt Designer | ![Qt Designer](https://progress-bar.xyz/20/?title=20%&width=200) |
-| Tkinter     | ![Tkinter](https://progress-bar.xyz/99/?title=99%&width=200) |
+| PyQt5       | ![PyQt5](https://progress-bar.xyz/20/&width=200) |
+| Qt Designer | ![Qt Designer](https://progress-bar.xyz/20/&width=200) |
+| Tkinter     | ![Tkinter](https://progress-bar.xyz/99/&width=200) |
 
 
 - [Add your skills here]

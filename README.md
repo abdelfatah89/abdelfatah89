@@ -11,16 +11,16 @@ Welcome to my GitHub profile!
 
 ## 🌱 I'm currently learning
 - Python....
+- MySQL....
+- I'll start learn dart and flutter....
 
 ## 💼 Skills & Technologies  
 
-### 🖥️ Desktop Development
-
-| Technology   | Level |
-|-------------|--------|
-| PyQt5       | ![PyQt5](https://progress-bar.xyz/20/?title=100%25&width=200) |
-| Qt Designer | ![Qt Designer](https://progress-bar.xyz/20/?title=100%25&width=200) |
-| Tkinter     | ![Tkinter](https://progress-bar.xyz/99/?title=100%25&width=200) |
+- Desktop Application Development (Python)
+- GUI Architecture (Tkinter, PyQt5)
+- Data Handling & SQL Integration
+- Performance Optimization (Caching, Data Filtering)
+- Structured OOP Design
 
 ## ⚡ Developer Identity
 
@@ -33,21 +33,13 @@ Welcome to my GitHub profile!
 - Designing scalable desktop apps
 - Writing cleaner, more maintainable code
 
-
----
-
 > Focused on building structured, scalable desktop applications with clean UI and solid logic.
-
-
-
-- [Add your skills here]
 
 ## 📫 How to reach me
 - abdalfattahlaktaoui98@gmail.com
 
-## ⚡ Fun fact
-- Code is not my Life
-
+## 😉 Fun fact
+- Code is not my Life...
 
 
 [![alaktaou's 42 stats](https://badge.mediaplus.ma/colorfulwaves/alaktaou)](https://github.com/oakoudad/badge42)

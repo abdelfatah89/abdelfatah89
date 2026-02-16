@@ -22,20 +22,17 @@ Welcome to my GitHub profile!
 | Qt Designer | ![Qt Designer](https://progress-bar.xyz/20/?title=100%25&width=200) |
 | Tkinter     | ![Tkinter](https://progress-bar.xyz/99/?title=100%25&width=200) |
 
-## ⚙️ Tech Stack
+## ⚡ Developer Identity
 
-### 🖥 Desktop Applications
-- **Python**
-- **Tkinter**  — Advanced
-- **PyQt5**  — Actively Improving
-- **Qt Designer**
+🧩 I build desktop systems with structure and logic.  
+🎯 Focused on clean UI + solid backend logic.  
+📚 Always learning, always improving.  
 
-### 🗄 Database
-- SQL Server
+### Current Focus
+- Improving PyQt5
+- Designing scalable desktop apps
+- Writing cleaner, more maintainable code
 
-### 🔧 Tools
-- Git
-- GitHub
 
 ---
 

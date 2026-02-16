@@ -21,6 +21,8 @@ Welcome to my GitHub profile!
 ## ⚡ Fun fact
 - [Add a fun fact about yourself here]
 
+---
+
 [![alaktaou's 42 stats](https://badge.mediaplus.ma/colorfulwaves/alaktaou)](https://github.com/oakoudad/badge42)
 
 ---

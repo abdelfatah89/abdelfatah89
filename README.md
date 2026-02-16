@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**abdelfatah89/abdelfatah89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm @abdelfatah89
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+## 🔭 I'm currently working on
+- [Add your current projects here]
+
+## 🌱 I'm currently learning
+- [Add what you're learning here]
+
+## 💼 Skills
+- [Add your skills here]
+
+## 📫 How to reach me
+- [Add your contact information here]
+
+## ⚡ Fun fact
+- [Add a fun fact about yourself here]
+
+[![alaktaou's 42 stats](https://badge.mediaplus.ma/colorfulwaves/alaktaou)](https://github.com/oakoudad/badge42)
+
+---
+
+Feel free to explore my repositories and connect with me!

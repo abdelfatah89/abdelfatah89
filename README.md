@@ -37,6 +37,9 @@ Welcome to my GitHub profile!
 
 ## 📫 How to reach me
 - abdalfattahlaktaoui98@gmail.com
+- YouTube: https://youtube.com/@abdelfatah89?si=I6kDMCOvYOv7mzKH
+- LinkedIn: https://www.linkedin.com/in/laktaoui-abdelfatah-989b7834a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Instagram: https://www.instagram.com/abdelfatah_laktaoui?igsh=b3cwNnJpaWJ4aHV2
 
 ## 😉 Fun fact
 - Code is not my Life...

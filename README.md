@@ -37,18 +37,11 @@ I'm currently exploring **LLMs, RAG, information retrieval, embeddings, hybrid s
 
 ### Systems & Tools
 
-* C
 * Linux
 * Bash
 * Git
 * SQL
 * MySQL
-
-### Application Development
-
-* PyQt5
-* Tkinter
-* Flutter
 
 ---
 

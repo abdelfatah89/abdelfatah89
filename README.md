@@ -23,7 +23,7 @@ I'm currently exploring **LLMs, RAG, information retrieval, embeddings, hybrid s
 
 > A selection of projects that represent what I'm currently learning and building.
 
-[View Repository →](https://github.com/abdelfatah89/RAG_against_the_machine)
+[**RAG** | View Repository →](https://github.com/abdelfatah89/RAG_against_the_machine)
 
 ### 🔎 RAG & Information Retrieval
 

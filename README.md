@@ -32,7 +32,7 @@ I'm currently exploring **LLMs, RAG, information retrieval, embeddings, hybrid s
 ### ⚡ Backend & Software Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,git" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi" />
 </p>
 
 `FastAPI` · `Pydantic` · `REST APIs` · `OOP` · `Software Architecture`
@@ -40,7 +40,7 @@ I'm currently exploring **LLMs, RAG, information retrieval, embeddings, hybrid s
 ### 🐧 Systems & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,linux,bash,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,mysql,git" />
 </p>
 
 `Linux` · `Bash` · `SQL` · `MySQL` · `Git`
@@ -50,7 +50,7 @@ I'm currently exploring **LLMs, RAG, information retrieval, embeddings, hybrid s
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,git,github,linux,mysql,fastapi,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,c,bash,git,github,linux,mysql,fastapi,pytorch" />
 </p>
 
 ---

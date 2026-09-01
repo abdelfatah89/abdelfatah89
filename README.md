@@ -19,12 +19,38 @@ I'm currently exploring **LLMs, RAG, information retrieval, embeddings, hybrid s
 
 ---
 
+## ⭐ Featured Projects
+
+> A selection of projects that represent what I'm currently learning and building.
+
+[View Repository →](https://github.com/abdelfatah89/RAG_against_the_machine)
+
+### 🔎 RAG & Information Retrieval
+
+Projects exploring **document processing, chunking, BM25, embeddings, vector search, and hybrid retrieval**.
+
+### 🤖 LLM & Transformers
+
+Experiments with **language models, tokenization, generation, logits, and model inference**.
+
+### ⚡ Local HTTP API
+
+A simple **FastAPI-based local API** for exposing application functionality through HTTP.
+
+### 🐧 Systems Programming
+
+Projects focused on **Linux, C, processes, threads, synchronization, and system-level programming**.
+
+> **More projects are available in my repositories below.**
+
+---
+
 ## 🧠 Areas I'm Exploring
 
 ### 🤖 Artificial Intelligence
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch" alt="Python and PyTorch" />
 </p>
 
 `LLMs` · `Transformers` · `Embeddings` · `RAG` · `BM25` · `Hybrid Search` · `Information Retrieval`
@@ -32,7 +58,7 @@ I'm currently exploring **LLMs, RAG, information retrieval, embeddings, hybrid s
 ### ⚡ Backend & Software Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,git" alt="Python, FastAPI and Git" />
 </p>
 
 `FastAPI` · `Pydantic` · `REST APIs` · `OOP` · `Software Architecture`
@@ -40,7 +66,7 @@ I'm currently exploring **LLMs, RAG, information retrieval, embeddings, hybrid s
 ### 🐧 Systems & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=c,linux,bash,mysql,git" alt="C, Linux, Bash, MySQL and Git" />
 </p>
 
 `Linux` · `Bash` · `SQL` · `MySQL` · `Git`
@@ -50,7 +76,7 @@ I'm currently exploring **LLMs, RAG, information retrieval, embeddings, hybrid s
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,bash,git,github,linux,mysql,fastapi,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,git,github,linux,mysql,fastapi,pytorch" alt="Tech stack" />
 </p>
 
 ---
@@ -82,7 +108,7 @@ My current focus is expanding from systems and application development into **AI
 
 ## 📊 42 / 1337
 
-<p>
+<p align="center">
   <img src="https://badge.mediaplus.ma/colorfulwaves/alaktaou" alt="42 stats" />
 </p>
 
@@ -92,13 +118,13 @@ My current focus is expanding from systems and application development into **AI
 
 <p>
   <a href="https://youtube.com/@abdelfatah89">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://www.linkedin.com/in/laktaoui-abdelfatah-989b7834a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/abdelfatah_laktaoui">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 

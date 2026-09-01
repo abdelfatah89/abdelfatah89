@@ -25,10 +25,6 @@ I'm currently exploring **LLMs, RAG, information retrieval, embeddings, hybrid s
 * Transformers
 * Embeddings
 * Retrieval-Augmented Generation (RAG)
-* Information Retrieval
-* BM25
-* Hybrid Search
-* Vector Search
 
 ### Backend & Software Engineering
 

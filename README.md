@@ -23,8 +23,6 @@ I'm currently exploring **LLMs, RAG, information retrieval, embeddings, hybrid s
 
 > A selection of projects that represent what I'm currently learning and building.
 
-[**RAG** | View Repository →](https://github.com/abdelfatah89/RAG_against_the_machine)
-
 ### 🔎 RAG & Information Retrieval
 
 Projects exploring **document processing, chunking, BM25, embeddings, vector search, and hybrid retrieval**.
@@ -37,9 +35,7 @@ Experiments with **language models, tokenization, generation, logits, and model 
 
 A simple **FastAPI-based local API** for exposing application functionality through HTTP.
 
-### 🐧 Systems Programming
-
-Projects focused on **Linux, C, processes, threads, synchronization, and system-level programming**.
+[View Repository →](https://github.com/abdelfatah89/RAG_against_the_machine)
 
 > **More projects are available in my repositories below.**
 

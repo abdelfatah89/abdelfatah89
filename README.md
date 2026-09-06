@@ -72,7 +72,7 @@ A simple **FastAPI-based local API** for exposing application functionality thro
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,git,github,linux,mysql,fastapi,pytorch" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,c,bash,git,github,linux,mysql,fastapi" alt="Tech stack" />
 </p>
 
 ---

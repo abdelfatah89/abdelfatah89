@@ -13,8 +13,6 @@ I'm currently exploring **LLMs, RAG, information retrieval, embeddings, hybrid s
 * 🧠 **LLM & AI projects** — experimenting with language models and Transformers
 * 🔎 **RAG systems** — retrieval, chunking, BM25, embeddings, and hybrid search
 * 📚 **Information Retrieval** — understanding how search and ranking systems work
-* ⚡ **Backend APIs** — building local HTTP APIs with FastAPI
-* 🐧 **Systems & Linux projects** — learning how software works closer to the system
 * 🛠️ **Python applications** — building tools and experimenting with different architectures
 
 ---

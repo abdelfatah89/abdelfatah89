@@ -111,7 +111,7 @@ My current focus is expanding from systems and application development into **AI
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://youtube.com/@abdelfatah89">
+  <a href="https://youtube.com/@ul4ee">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://www.linkedin.com/in/laktaoui-abdelfatah-989b7834a">
